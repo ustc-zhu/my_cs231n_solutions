@@ -3,3 +3,9 @@ datasets/
 
 #sh
 *.sh
+
+#log
+*.log
+
+#txt
+*.txt
